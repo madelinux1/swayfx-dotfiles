@@ -1,5 +1,6 @@
 # Madelinux's SwayFX dotfiles
 These are just my dotfiles for SwayFX. The theme is mostly Catppuccin Latte with some of the colors from Macchiato.
+The wallpaper is by u/MoeWanders on Reddit.
 This contains themes for
 - SwayFX
 - Mako
@@ -15,7 +16,7 @@ Also I have only tested this on Arch Linux and I see no reason why it wouldn't w
   <li>swayfx</li>
   <li>swaybg</li>
   <li>otf-font-awesome</li>
-  <li>maple-mono-nf-cn-unhinted (Only if you want to use the same terminal font, but you do have to edit the fuzzel and waybar configs if you don't have it)</li>
+  <li>maple-mono-nf-cn-unhinted (Only if you want to use the same terminal font, but you do have to edit the fuzzel and waybar configs if you don't have it.)</li>
 </ul>
 <h1>Examples</h1>
 <img src="example2.png" alt="Waybar example">
